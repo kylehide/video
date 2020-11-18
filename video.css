@@ -36,6 +36,7 @@ h2 {
 .info {
 	display: inline-block;
 	vertical-align: top;
+	position: absolute;
 }
 
 .vid {
